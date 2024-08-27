@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.yapily</groupId>
-	<artifactId>products</artifactId>
+	<artifactId>carts</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>products</name>
+	<name>cart</name>
 	<description>exercise</description>
 	<url/>
 	<licenses>
